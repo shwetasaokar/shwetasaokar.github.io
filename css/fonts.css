@@ -104,6 +104,7 @@
     font-style: normal;
 }
 
+
 /*
  * Libre Baskerville
 ================================================================================ */   
@@ -154,4 +155,13 @@
    src: url('fonts/opensans/OpenSans-Bold-webfont.svg#open_sansbold') format('svg');
    }
 
+}
+
+/* Cursive font face */
+
+@font-face {
+    font-family: 'Satisfy', cursive;
+    src:  url('fonts/Satisfy/Satisfy-Regular.ttf') format('truetype'),
+
+    font-style: normal;
 }
